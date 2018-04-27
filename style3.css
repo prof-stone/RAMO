@@ -1,0 +1,54 @@
+html {
+  margin:0;
+  padding:0;
+  background: url(RAMO-GIF.gif) no-repeat center fixed; 
+  -webkit-background-size: 50vw;
+  background-size: 50vw;
+}
+
+body{
+  font-family: 'Quicksand', sans-serif;
+  font-size:  20px;
+
+}
+
+
+h1{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  font-size: 4vw;
+  color: red;
+  padding-left: 25px;
+}
+
+
+h2{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  color: grey;
+  padding-left: 25px;
+  font-weight: normal;
+}
+
+p{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2vw;
+  color: red;
+  padding-left: 25px;
+}
+
+a{
+  font-weight: lighter;
+  color: red;
+}
+
+a:hover{
+  font-weight: bold;
+  color: rgb(130,0,0);
+
+}
+
+#logos{
+  position: absolute; bottom: 20px; right: 20px;
+}
